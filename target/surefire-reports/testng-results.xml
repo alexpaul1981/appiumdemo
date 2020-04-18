@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="454750" started-at="2020-04-18T11:00:42 IST" finished-at="2020-04-18T11:08:17 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="454750" started-at="2020-04-18T11:00:42 IST" finished-at="2020-04-18T11:08:17 IST">
+      <class name="practiceFW.AppiumFramework.scrolling">
+        <test-method status="PASS" signature="scrolltest()[pri:0, instance:practiceFW.AppiumFramework.scrolling@2d8f65a4]" name="scrolltest" duration-ms="65554" started-at="2020-04-18T11:03:10 IST" finished-at="2020-04-18T11:04:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrolltest -->
+      </class> <!-- practiceFW.AppiumFramework.scrolling -->
+      <class name="practiceFW.AppiumFramework.swipe">
+        <test-method status="PASS" signature="swiping()[pri:0, instance:practiceFW.AppiumFramework.swipe@33f88ab]" name="swiping" duration-ms="79042" started-at="2020-04-18T11:00:52 IST" finished-at="2020-04-18T11:02:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swiping -->
+      </class> <!-- practiceFW.AppiumFramework.swipe -->
+      <class name="practiceFW.AppiumFramework.gestures">
+        <test-method status="PASS" signature="artofgestures()[pri:0, instance:practiceFW.AppiumFramework.gestures@27a8c74e]" name="artofgestures" duration-ms="58235" started-at="2020-04-18T11:02:11 IST" finished-at="2020-04-18T11:03:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- artofgestures -->
+      </class> <!-- practiceFW.AppiumFramework.gestures -->
+      <class name="practiceFW.AppiumFramework.Basics">
+        <test-method status="PASS" signature="killproc()[pri:0, instance:practiceFW.AppiumFramework.Basics@2833cc44]" name="killproc" is-config="true" duration-ms="10029" started-at="2020-04-18T11:00:42 IST" finished-at="2020-04-18T11:00:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killproc -->
+        <test-method status="PASS" signature="Validation(java.lang.String)[pri:0, instance:practiceFW.AppiumFramework.Basics@2833cc44]" name="Validation" duration-ms="61304" started-at="2020-04-18T11:04:15 IST" data-provider="InputData" finished-at="2020-04-18T11:05:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dolly@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validation -->
+        <test-method status="PASS" signature="Validation(java.lang.String)[pri:0, instance:practiceFW.AppiumFramework.Basics@2833cc44]" name="Validation" duration-ms="62127" started-at="2020-04-18T11:05:17 IST" data-provider="InputData" finished-at="2020-04-18T11:06:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[master@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validation -->
+        <test-method status="PASS" signature="Validation(java.lang.String)[pri:0, instance:practiceFW.AppiumFramework.Basics@2833cc44]" name="Validation" duration-ms="63172" started-at="2020-04-18T11:06:19 IST" data-provider="InputData" finished-at="2020-04-18T11:07:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Slave@1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validation -->
+      </class> <!-- practiceFW.AppiumFramework.Basics -->
+      <class name="practiceFW.AppiumFramework.draganddrop">
+        <test-method status="PASS" signature="dragtest()[pri:0, instance:practiceFW.AppiumFramework.draganddrop@1b68ddbd]" name="dragtest" duration-ms="55113" started-at="2020-04-18T11:07:22 IST" finished-at="2020-04-18T11:08:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragtest -->
+      </class> <!-- practiceFW.AppiumFramework.draganddrop -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
